@@ -10,3 +10,8 @@ My profile HackerRank:
 
 [Link profile](https://www.hackerrank.com/zilich08 "HackerRank profile")
 
+## Navigation list:
+
+* [Day 0](/Day0/README.md "Day 0")
+
+* [Day 1](/Day1/README.md "Day 1")

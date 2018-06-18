@@ -1,4 +1,4 @@
-# Day0 - 30 Days of Code
+# 30 Days of Code - Day 0
 
 To view solutions, see the file `hello-world.py` in your text editor.
 
