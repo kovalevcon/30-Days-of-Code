@@ -22,3 +22,5 @@ and initialize your `3` variables.
 **Solution**:
 
 In `data-types.py`.
+
+Return to [navigation list](/README.md "navigation list")
