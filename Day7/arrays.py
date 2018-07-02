@@ -5,6 +5,4 @@ if __name__ == '__main__':
 
     arr = list(map(int, input().rstrip().split()))
 
-arr.reverse()
-arr = map(str, arr)
-print(' '.join(arr))
+print(' '.join(map(str, arr[::-1])))
