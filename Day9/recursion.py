@@ -9,10 +9,7 @@
 
 # Complete the factorial function below.
 def factorial(n):
-    if n > 1:
-        return n * factorial(n - 1)
-    else:
-        return n
+    return n * factorial(n - 1) if n > 1 else n
 
 
 # if __name__ == '__main__':

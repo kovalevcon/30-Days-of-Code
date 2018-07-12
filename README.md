@@ -4,7 +4,7 @@ My task code for "30 Days of Code" course in HackerRank.
 
 Code development by Python 3.
 
-[Link course](https://www.hackerrank.com/domains/tutorials/30-days-of-code "HackerRank")
+[Link course](https://www.hackerrank.com/domains/tutorials/30-days-of-code "HackerRank 30 Days of Code")
 
 My profile HackerRank:
 
@@ -31,3 +31,5 @@ My profile HackerRank:
 * [Day 8](/Day8/README.md "Day 8")
 
 * [Day 9](/Day9/README.md "Day 9")
+
+* [Day 10](/Day10/README.md "Day 10")
