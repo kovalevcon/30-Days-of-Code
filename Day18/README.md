@@ -2,7 +2,7 @@
 
 To view solutions, see the file `queues-stacks.py` in your text editor.
 
-##Day 18: Queues and Stacks
+## Day 18: Queues and Stacks
 
 **Task**:
 

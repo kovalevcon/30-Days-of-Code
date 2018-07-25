@@ -2,7 +2,7 @@
 
 To view solutions, see the file `loops.py` in your text editor.
 
-##Day 5: Loops
+## Day 5: Loops
 
 **Task**:
 

@@ -2,7 +2,7 @@
 
 To view solutions, see the file `class-vs-instance.py` in your text editor.
 
-##Day 4: Class vs. Instance
+## Day 4: Class vs. Instance
 
 **Task**:
 

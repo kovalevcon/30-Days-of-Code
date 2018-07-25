@@ -2,7 +2,7 @@
 
 To view solutions, see the file `dictionaries.py` in your text editor.
 
-##Day 8: Dictionaries and Maps
+## Day 8: Dictionaries and Maps
 
 
 **Task**:

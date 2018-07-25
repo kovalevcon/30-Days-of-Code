@@ -2,7 +2,7 @@
 
 To view solutions, see the file `lets-review.py` in your text editor.
 
-##Day 6: Let's Review
+## Day 6: Let's Review
 
 **Task**:
 

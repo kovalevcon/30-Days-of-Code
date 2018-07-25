@@ -2,7 +2,7 @@
 
 To view solutions, see the file `2d-arrays.py` in your text editor.
 
-##Day 11: 2D Arrays
+## Day 11: 2D Arrays
 
 **Context**:
 

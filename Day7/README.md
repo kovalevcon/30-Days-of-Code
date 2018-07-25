@@ -2,7 +2,7 @@
 
 To view solutions, see the file `arrays.py` in your text editor.
 
-##Day 7: Arrays
+## Day 7: Arrays
 
 **Task**:
 

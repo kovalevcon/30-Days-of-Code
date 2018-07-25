@@ -2,7 +2,7 @@
 
 To view solutions, see the file `exceptions-str-to-int.py` in your text editor.
 
-##Day 16: Exceptions - String to Integer
+## Day 16: Exceptions - String to Integer
 
 **Task**:
 

@@ -2,7 +2,7 @@
 
 To view solutions, see the file `if-statement.py` in your text editor.
 
-##Day 3: Intro to Conditional Statements
+## Day 3: Intro to Conditional Statements
 
 **Task**:
 

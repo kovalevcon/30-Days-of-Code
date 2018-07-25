@@ -2,7 +2,7 @@
 
 To view solutions, see the file `scope.py` in your text editor.
 
-##Day 14: Scope
+## Day 14: Scope
 
 **Objective**:
 

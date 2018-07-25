@@ -2,7 +2,7 @@
 
 To view solutions, see the file `operators.py` in your text editor.
 
-##Day 2: Operators
+## Day 2: Operators
 
 **Task**:
 

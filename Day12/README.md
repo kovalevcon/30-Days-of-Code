@@ -2,7 +2,7 @@
 
 To view solutions, see the file `inheritance.py` in your text editor.
 
-##Day 12: Inheritance
+## Day 12: Inheritance
 
 **Task**:
 

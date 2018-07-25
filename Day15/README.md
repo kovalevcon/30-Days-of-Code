@@ -2,7 +2,7 @@
 
 To view solutions, see the file `linked-list.py` in your text editor.
 
-##Day 15: Linked List
+## Day 15: Linked List
 
 **Objective**:
 

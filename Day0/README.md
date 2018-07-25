@@ -2,7 +2,7 @@
 
 To view solutions, see the file `hello-world.py` in your text editor.
 
-##Day 0: Hello, World.
+## Day 0: Hello, World.
 
 **Task**:
 

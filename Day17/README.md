@@ -2,7 +2,7 @@
 
 To view solutions, see the file `more-exceptions.py` in your text editor.
 
-##Day 17: More Exceptions
+## Day 17: More Exceptions
 
 **Task**:
 

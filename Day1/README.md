@@ -2,7 +2,7 @@
 
 To view solutions, see the file `data-types.py` in your text editor.
 
-##Day 1: Data Types
+## Day 1: Data Types
 
 **Task**:
 

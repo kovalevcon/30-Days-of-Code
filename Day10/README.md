@@ -2,7 +2,7 @@
 
 To view solutions, see the file `binary-numbers.py` in your text editor.
 
-##Day 10: Binary Numbers
+## Day 10: Binary Numbers
 
 **Task**:
 
