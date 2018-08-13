@@ -61,3 +61,5 @@ My profile HackerRank:
 * [Day 23](/Day23/README.md "Day 23")
 
 * [Day 24](/Day24/README.md "Day 24")
+
+* [Day 25](/Day25/README.md "Day 25")
