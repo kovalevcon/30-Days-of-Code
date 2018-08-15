@@ -2,7 +2,7 @@
 
 To view solutions, see the file `nested-logic.py` in your text editor.
 
-## Day 25: Nested Logic
+## Day 26: Nested Logic
 
 **Task**:
 
